@@ -51,7 +51,7 @@ Replace YOUR-USERNAME and REPOSITORY with your GitHub username and the repositor
 
 Create a separate branch for your contribution:
 
-git checkout -b <branchname>
+git checkout -b branchname
 
 Make your changes to the relevant files, then stage and commit them:
 
@@ -62,7 +62,7 @@ git commit -m "Add my first contribution"
 
 Upload your branch to your fork:
 
-git push -u origin <branchname>
+git push -u origin branchname
 
 ### 5. Open a Pull Request
 
